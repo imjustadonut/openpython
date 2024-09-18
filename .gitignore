@@ -1,0 +1,5 @@
+/licenses/*
+/openpython/__pycache__
+/openpython/pkgs/__pycache__
+/openpython/__main__.py
+*.ignore.*
