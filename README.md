@@ -1,3 +1,3 @@
 # --> openpython <--
 
-Read me published [on](https://corbin-c.medium.com/the-openpython-project-3eae94937720)
+Read me published [on my Medium page](https://corbin-c.medium.com/the-openpython-project-3eae94937720)!
